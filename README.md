@@ -43,15 +43,17 @@
   </tr>
 </table>
 
-### 🌟 [HwxLink](https://github.com/hwwx/HwxLink)
 ---
+
+### 🌟 <a href="https://github.com/hwwx/HwxLink" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">HwxLink</a>
+
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
     <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
     <img src="images/leg_sim.png" alt="模拟图像" width="200" style="border-radius: 8px;">
   </div>
   <div style="flex: 2;">
-    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong> This project is aimed at designing a **miniaturized, integrated multifunctional intelligent terminal**. Key features include:</p>
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong> This project is aimed at designing a miniaturized, integrated multifunctional intelligent terminal. Key features include:</p>
     <ul style="line-height: 1.6;">
       <li>High-precision attitude sensing</li>
       <li>Intelligent device control</li>
