@@ -1,9 +1,9 @@
 # 你好呀，我是 [你的名字]！ 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/hwwx?label=Followers&style=social)](https://github.com/yourusername)
+[![GitHub stars](https://img.shields.io/github/stars/hwwx?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/yourusername)
 
-欢迎来到我的 GitHub 主页！我是一个 **[职业：如软件工程师/全栈开发者/数据科学家]**，热衷于探索新技术和开发创新项目。
+欢迎来到我的 GitHub 主页！我是一个 **学生**，目前就读于[深圳大学电子信息工程学院文华班](https://ceie.szu.edu.cn/index.htm)，热衷于探索新技术和开发创新项目。
 
 ---
 
@@ -20,60 +20,49 @@
 ## 我的技术栈 🚀
 
 **编程语言**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**框架与库**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30">
+
+
+
+
+**框架与库** 
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **开发工具**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Fusion%20360-FF6719?style=flat-square&logo=autodesk&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/Keil-1C6CAB?style=flat-square&logo=arm&logoColor=white" height="30">
+
 
 ---
 
-## GitHub 数据统计 📊
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ## 我的项目 🔥
 
 ### 🌟 [项目1名称](项目链接)
+<div style="display: flex; align-items: center;">
+    <img src="images/leg_real_LE_auto_x4.jpg" alt="Real Image" width="45%" style="margin-right: 5px;">
+    <img src="images/leg_sim.png" alt="Simulated Image" width="45%">
+</div>
+
 **描述**：简短描述该项目的功能和特点。  
 **技术栈**：`技术1`、`技术2`、`技术3`。
 
-### 🌟 [项目2名称](项目链接)
-**描述**：简短描述该项目的功能和特点。  
-**技术栈**：`技术1`、`技术2`、`技术3`。
 
-### 🌟 [项目3名称](项目链接)
-**描述**：简短描述该项目的功能和特点。  
-**技术栈**：`技术1`、`技术2`、`技术3`。
 
 *更多项目请查看：[项目列表链接](https://github.com/yourusername?tab=repositories)*
 
 ---
 
-## 博客 & 最新动态 ✍️
-
-- [博客文章标题1](链接) - 发布日期：YYYY-MM-DD
-- [博客文章标题2](链接) - 发布日期：YYYY-MM-DD
-- [博客文章标题3](链接) - 发布日期：YYYY-MM-DD
-
----
-
 ## 联系我 📫
-
-- 个人网站：[yourwebsite.com](https://yourwebsite.com)
-- 邮箱：yourname@example.com
-- LinkedIn：[LinkedIn 个人链接](https://linkedin.com/in/yourusername)
+- 邮箱：2646238262@qq.com
 - Twitter：[Twitter 个人链接](https://twitter.com/yourusername)
 
 ---
