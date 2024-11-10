@@ -10,38 +10,37 @@
 
 ## 我的项目 🔥
 
-### 🌟 [项目2名称](项目链接)
+### 🌟 <a href="项目链接" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">项目2名称</a>
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="images/Sentry_V1.png" alt="真实图像" width="101" style="border-radius: 8px;">
-      <img src="images/Sentry_V2.png" alt="模拟图像" width="101" style="border-radius: 8px;">
-      <img src="images/Sentry_V3.png" alt="模拟图像" width="101" style="border-radius: 8px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <p><strong>描述：</strong>简短描述该项目的功能和特点。</p>
-      <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
-      <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <div style="flex: 1; display: flex; gap: 10px;">
+    <img src="images/Sentry_V1.png" alt="真实图像" width="120" style="border-radius: 8px;">
+    <img src="images/Sentry_V2.png" alt="模拟图像" width="120" style="border-radius: 8px;">
+    <img src="images/Sentry_V3.png" alt="模拟图像" width="120" style="border-radius: 8px;">
+  </div>
+  <div style="flex: 2;">
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
+    <p style="margin-top: 10px;"><strong>技术栈：</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
+    <p><a href="项目列表链接" style="color: #0366d6; text-decoration: none; font-weight: bold;">更多项目请查看：项目列表链接</a></p>
+  </div>
+</div>
 
-### 🌟 [项目1名称](项目链接)
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="images/Drone.jpg" alt="真实图像" width="150" style="border-radius: 8px; margin-right: 10px;">
-      <img src="images/Drone_close.jpg" alt="模拟图像" width="150" style="border-radius: 8px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <p><strong>描述：</strong>简短描述该项目的功能和特点。</p>
-      <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
-      <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
-    </td>
-  </tr>
-</table>
+---
+
+### 🌟 <a href="项目链接" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">项目1名称</a>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <div style="flex: 1;">
+    <img src="images/Drone.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
+    <img src="images/Drone_close.jpg" alt="模拟图像" width="200" style="border-radius: 8px;">
+  </div>
+  <div style="flex: 2;">
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
+    <p style="margin-top: 10px;"><strong>技术栈：</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
+    <p><a href="项目列表链接" style="color: #0366d6; text-decoration: none; font-weight: bold;">更多项目请查看：项目列表链接</a></p>
+  </div>
+</div>
 
 ---
 
@@ -66,22 +65,21 @@
   </div>
 </div>
 
+---
 
-### 🌟 [HwxLink](https://github.com/hwwx/HwxLink)
+### 🌟 <a href="https://github.com/hwwx/HwxLink" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">HwxLink</a>
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="images/HwxLink.jpg" alt="真实图像" width="150" style="border-radius: 8px; margin-right: 10px;">
-      <img src="images/HwxLink_PCB.jpg" alt="模拟图像" width="150" style="border-radius: 8px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <p><strong>描述：</strong>简短描述该项目的功能和特点。</p>
-      <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
-      <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <div style="flex: 1;">
+    <img src="images/HwxLink.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
+    <img src="images/HwxLink_PCB.jpg" alt="模拟图像" width="200" style="border-radius: 8px;">
+  </div>
+  <div style="flex: 2;">
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
+    <p style="margin-top: 10px;"><strong>技术栈：</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
+    <p><a href="项目列表链接" style="color: #0366d6; text-decoration: none; font-weight: bold;">更多项目请查看：项目列表链接</a></p>
+  </div>
+</div>
 
 
 
