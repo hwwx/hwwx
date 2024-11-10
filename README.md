@@ -44,7 +44,7 @@
 
 ---
 
-### 🌟 <a href="https://github.com/hwwx/HwxLink" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">HwxLink</a>
+### 🌟 <a href="https://github.com/hwwx/Four-Link-Wheel-Leg" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">Four-Link-Wheel-Leg</a>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
@@ -75,9 +75,16 @@
     <img src="images/HwxLink_PCB.jpg" alt="模拟图像" width="200" style="border-radius: 8px;">
   </div>
   <div style="flex: 2;">
-    <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
-    <p style="margin-top: 10px;"><strong>技术栈：</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
-    <p><a href="项目列表链接" style="color: #0366d6; text-decoration: none; font-weight: bold;">更多项目请查看：项目列表链接</a></p>
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong> This project is aimed at designing a miniaturized, integrated multifunctional intelligent terminal. Key features include:</p>
+    <ul style="line-height: 1.6;">
+      <li>High-precision attitude sensing</li>
+      <li>Intelligent device control</li>
+      <li>Wireless sensor capabilities</li>
+      <li>Intelligent temperature monitoring</li>
+      <li>Portable DDS system</li>
+      <li>Simple oscilloscope</li>
+    </ul>
+    <p style="margin-top: 10px;"><strong>Technology stack:</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
   </div>
 </div>
 
