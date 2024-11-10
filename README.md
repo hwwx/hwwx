@@ -20,7 +20,7 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
     <img src="images/Sentry_V3.png" alt="模拟图像" width="200" style="border-radius: 8px;">
   </div>
   <div style="flex: 2;">
-    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong>Two years at the RobotPilots Lab</p>
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong>The electronic control and navigation part, carried out a year of research and development, and a year of iteration, a total of two years. The content of the electronic control part includes, developed on the STM32F407VET6, attitude calculation of six-axis gyroscope data, calculation and motion control of the steering wheel and the chassis of the all-directional wheel, control of the two-axis head with online identification, communication between the four MCU masters based on CAN communication, communication with the host computer based on serial port, and communication with the host computer. And function optimization for competition scenarios. The navigation part includes using the Movebase framework in ROS, using the Point-LIO open source algorithm as the odometry information source, and segmentation of dynamic obstacles by comparing the pre-built map with the real-time Point cloud, using A* and teb algorithms to finally achieve path planning and obstacle avoidance.</p>
   </div>
 </div>
 
