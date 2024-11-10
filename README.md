@@ -10,7 +10,7 @@
 
 ## 我的项目 🔥
 
-### 🌟 <a href="项目链接" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">项目2名称</a>
+### 🌟 <a href="项目链接" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">RoboMaster Sentry</a>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
@@ -28,12 +28,13 @@
 
 ---
 
-### 🌟 <a href="项目链接" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">项目1名称</a>
+### 🌟 <a href="https://github.com/hwwx/TrackQuad" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">TrackQuad</a>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
     <img src="images/Drone.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
     <img src="images/Drone_close.jpg" alt="模拟图像" width="200" style="border-radius: 8px;">
+    <img src="images/Drone_design.png" alt="模拟图像" hight="200" style="border-radius: 8px;">
   </div>
   <div style="flex: 2;">
     <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
@@ -44,7 +45,7 @@
 
 ---
 
-### 🌟 <a href="https://github.com/hwwx/Four-Link-Wheel-Leg" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">Four-Link-Wheel-Leg</a>
+### 🌟 <a href="https://github.com/hwwx/JumpBot" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">JumpBot</a>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
