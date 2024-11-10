@@ -48,8 +48,8 @@
 <div style="display: flex; align-items: flex-start; gap: 20px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
   <!-- 左侧图片区域 -->
   <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="180" style="border-radius: 10px;">
-    <img src="images/leg_sim.png" alt="模拟图像" width="180" style="border-radius: 10px;">
+    <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="border-radius: 10px;">
+    <img src="images/leg_sim.png" alt="模拟图像" width="200" style="border-radius: 10px;">
   </div>
 
   <!-- 右侧文字区域 -->
