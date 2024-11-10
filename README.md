@@ -45,8 +45,8 @@
 
 ### 🌟 [项目1名称](项目链接)
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin-right: 15px; text-align: center;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <div style="text-align: center; margin-right: 20px;">
         <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="border-radius: 8px;">
         <p style="margin-top: 5px; font-weight: bold;">真实图像</p>
     </div>
