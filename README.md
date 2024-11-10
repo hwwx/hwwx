@@ -20,7 +20,7 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
     <img src="images/Sentry_V3.png" alt="模拟图像" width="200" style="border-radius: 8px;">
   </div>
   <div style="flex: 2;">
-    <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong>Two years at the RobotPilots Lab</p>
   </div>
 </div>
 
