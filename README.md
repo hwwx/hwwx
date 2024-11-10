@@ -45,9 +45,9 @@
 
 ### 🌟 [项目1名称](项目链接)
 
-<div align="center">
+<div>
     <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="margin-right: 20px; border-radius: 12px;">
-    <img src="images/leg_sim.png" alt="模拟图像" width="200" style="margin-left: 20px; border-radius: 12px;">
+    <img src="images/leg_sim.png" alt="模拟图像" width="200" style="margin-right: 100px; border-radius: 12px;">
 </div>
 
 **描述**：简短描述该项目的功能和特点。  
