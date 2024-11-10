@@ -34,7 +34,7 @@
   <div style="flex: 1;">
     <img src="images/Drone.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
     <img src="images/Drone_close.jpg" alt="模拟图像" width="200" style="border-radius: 8px;">
-    <img src="images/Drone_design.png" alt="模拟图像" width="260" style="border-radius: 8px;">
+    <img src="images/Drone_design.png" alt="模拟图像" width="265" style="border-radius: 8px;">
   </div>
   <div style="flex: 2;">
     <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
