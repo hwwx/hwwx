@@ -60,6 +60,21 @@
   </tr>
 </table>
 
+### 🌟 [项目1名称](项目链接)
+
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="images/Drone.jpg" alt="真实图像" width="150" style="border-radius: 8px; margin-right: 10px;">
+      <img src="images/Drone_close.jpg" alt="模拟图像" width="150" style="border-radius: 8px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p><strong>描述：</strong>简短描述该项目的功能和特点。</p>
+      <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
+      <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
+    </td>
+  </tr>
+</table>
 
 
 *更多项目请查看：[项目列表链接](https://github.com/yourusername?tab=repositories)*
