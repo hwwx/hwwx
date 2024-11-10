@@ -9,7 +9,7 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
 
 
 
-## 我的项目 🔥
+## Project 🔥
 
 ### 🌟 <a href="https://github.com/hwwx/RP_Sentry" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">RoboMaster Sentry</a>
 
@@ -68,7 +68,6 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
       <li>Portable DDS system</li>
       <li>Simple oscilloscope</li>
     </ul>
-    <p style="margin-top: 10px;"><strong>Technology stack:</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
   </div>
 </div>
 
@@ -91,35 +90,33 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
       <li>Portable DDS system</li>
       <li>Simple oscilloscope</li>
     </ul>
-    <p style="margin-top: 10px;"><strong>Technology stack:</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
   </div>
 </div>
 
 
+---
 
+*More items please see:[Item list](https://github.com/hwwx?tab=repositories)*
 
-*更多项目请查看：[项目列表链接](https://github.com/yourusername?tab=repositories)*
+## Technology stack: 🚀
 
-## 我的技术栈 🚀
-
-**编程语言**  
+**Programming Language**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="30">
 
 
-**框架与库** 
+**Frameworks and Libraries** 
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**开发工具**  
+**Development Tool**  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Fusion%20360-FF6719?style=flat-square&logo=autodesk&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Keil-1C6CAB?style=flat-square&logo=arm&logoColor=white" height="30">
 
-## 联系我 📫
-- 邮箱：2646238262@qq.com
-- Twitter：[Twitter 个人链接](https://twitter.com/yourusername)
+## Contact Me 📫
+- Mail：2646238262@qq.com
