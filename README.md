@@ -11,7 +11,7 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
 
 ## 我的项目 🔥
 
-### 🌟 <a href="项目链接" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">RoboMaster Sentry</a>
+### 🌟 <a href="https://github.com/hwwx/RP_Sentry" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">RoboMaster Sentry</a>
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
@@ -21,8 +21,6 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
   </div>
   <div style="flex: 2;">
     <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
-    <p style="margin-top: 10px;"><strong>技术栈：</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
-    <p><a href="项目列表链接" style="color: #0366d6; text-decoration: none; font-weight: bold;">更多项目请查看：项目列表链接</a></p>
   </div>
 </div>
 
