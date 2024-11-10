@@ -1,11 +1,5 @@
-# 你好呀，我是 [你的名字]！ 👋
-
-[![GitHub followers](https://img.shields.io/github/followers/hwwx?label=Followers&style=social)](https://github.com/yourusername)
-[![GitHub stars](https://img.shields.io/github/stars/hwwx?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/yourusername)
-
-欢迎来到我的 GitHub 主页！我是一个 **学生**，目前就读于[深圳大学电子信息工程学院文华班](https://ceie.szu.edu.cn/index.htm)，热衷于探索新技术和开发创新项目。
-
 ## 关于我 🙋‍♂️
+欢迎来到我的 GitHub 主页！我是一个 **学生**，目前就读于[深圳大学电子信息工程学院文华班](https://ceie.szu.edu.cn/index.htm)，热衷于探索新技术和开发创新项目。
 
 - 🔭 我目前正在做的项目：[项目名称](项目链接)
 - 🌱 目前在学习：`技术/框架/语言`，如 `Rust`、`Kubernetes`
