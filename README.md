@@ -5,8 +5,6 @@
 
 欢迎来到我的 GitHub 主页！我是一个 **学生**，目前就读于[深圳大学电子信息工程学院文华班](https://ceie.szu.edu.cn/index.htm)，热衷于探索新技术和开发创新项目。
 
----
-
 ## 关于我 🙋‍♂️
 
 - 🔭 我目前正在做的项目：[项目名称](项目链接)
@@ -15,7 +13,28 @@
 - 💬 如果你有关于 `主题/技术` 的问题，欢迎与我交流
 - 😄 兴趣爱好：`爱好1`，`爱好2`，`爱好3`，如 `健身`、`写博客`、`音乐`
 
----
+
+## 我的项目 🔥
+
+### 🌟 [项目1名称](项目链接)
+
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="150" style="border-radius: 8px; margin-right: 10px;">
+      <img src="images/leg_sim.png" alt="模拟图像" width="150" style="border-radius: 8px;">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p><strong>描述：</strong>简短描述该项目的功能和特点。</p>
+      <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
+      <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
+    </td>
+  </tr>
+</table>
+
+
+
+*更多项目请查看：[项目列表链接](https://github.com/yourusername?tab=repositories)*
 
 ## 我的技术栈 🚀
 
@@ -36,32 +55,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Fusion%20360-FF6719?style=flat-square&logo=autodesk&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/Keil-1C6CAB?style=flat-square&logo=arm&logoColor=white" height="30">
-
-
----
-
-
-## 我的项目 🔥
-
-### 🌟 [项目1名称](项目链接)
-
-<div style="display: flex; align-items: flex-start;">
-    <div style="display: flex; flex-direction: row; margin-right: 20px;">
-        <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="150" style="border-radius: 8px; margin-right: 10px;">
-        <img src="images/leg_sim.png" alt="模拟图像" width="150" style="border-radius: 8px;">
-    </div>
-    <div>
-        <p><strong>描述：</strong>简短描述该项目的功能和特点。</p>
-        <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
-        <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
-    </div>
-</div>
-
-
-
-*更多项目请查看：[项目列表链接](https://github.com/yourusername?tab=repositories)*
-
----
 
 ## 联系我 📫
 - 邮箱：2646238262@qq.com
