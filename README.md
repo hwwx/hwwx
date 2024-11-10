@@ -37,11 +37,18 @@
     <img src="images/Drone_design.png" alt="模拟图像" width="265" style="border-radius: 8px;">
   </div>
   <div style="flex: 2;">
-    <p style="font-size: 1rem; line-height: 1.6;"><strong>描述：</strong>简短描述该项目的功能和特点。</p>
-    <p style="margin-top: 10px;"><strong>技术栈：</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
-    <p><a href="项目列表链接" style="color: #0366d6; text-decoration: none; font-weight: bold;">更多项目请查看：项目列表链接</a></p>
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong>TrackQuad is a quadrotor UAV specifically designed for target-tracking missions, equipped with the PX4 flight control system and developed on Horizon Robotics' X3 Pi platform. It features advanced capabilities such as intelligent tracking and visual stabilization.</p>
+    <p style="margin-top: 10px;"><strong>Key Features:</strong></p>
+    <ul style="line-height: 1.6; padding-left: 20px;">
+      <li><strong>PX4 Flight Control System:</strong> An open-source system that gives TrackQuad flexible and stable flight control, adapting to various flight tasks.</li>
+      <li><strong>X3 Pi Development Platform:</strong> Powered by Horizon Robotics' X3 Pi processor, providing robust computational power for efficient target detection and tracking.</li>
+      <li><strong>Intelligent Tracking:</strong> Utilizes YOLOV5 for autonomous identification and continuous tracking of moving targets, even in complex environments.</li>
+      <li><strong>Visual Stabilization:</strong> Equipped with T265 for pose fusion with PX4, maintaining stable flight posture across diverse environments and enhancing monitoring quality.</li>
+    </ul>
+    
   </div>
 </div>
+
 
 ---
 
