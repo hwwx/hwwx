@@ -44,7 +44,7 @@
 </table>
 
 ### 🌟 [HwxLink](https://github.com/hwwx/HwxLink)
-
+---
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
     <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
@@ -60,8 +60,7 @@
       <li>Portable DDS system</li>
       <li>Simple oscilloscope</li>
     </ul>
-    <p style="margin-top: 10px;"><strong>技术栈：</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
-    <p><a href="项目列表链接" style="color: #0366d6; text-decoration: none; font-weight: bold;">更多项目请查看：项目列表链接</a></p>
+    <p style="margin-top: 10px;"><strong>Technology stack:</strong><code>技术1</code>、<code>技术2</code>、<code>技术3</code></p>
   </div>
 </div>
 
