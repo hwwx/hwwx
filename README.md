@@ -45,16 +45,17 @@
 
 ### 🌟 [项目1名称](项目链接)
 
-<div style="display: flex; align-items: center;">
-    <figure style="margin-right: 10px; text-align: center;">
-        <img src="images/leg_real_LE_auto_x4.jpg" alt="Real Image" width="200">
-        <figcaption>真实图像</figcaption>
-    </figure>
-    <figure style="text-align: center;">
-        <img src="images/leg_sim.png" alt="Simulated Image" width="200">
-        <figcaption>模拟图像</figcaption>
-    </figure>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 15px; text-align: center;">
+        <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="border-radius: 8px;">
+        <p style="margin-top: 5px; font-weight: bold;">真实图像</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="images/leg_sim.png" alt="模拟图像" width="200" style="border-radius: 8px;">
+        <p style="margin-top: 5px; font-weight: bold;">模拟图像</p>
+    </div>
 </div>
+
 
 
 **描述**：简短描述该项目的功能和特点。  
