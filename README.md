@@ -45,19 +45,26 @@
 
 ### 🌟 [HwxLink](https://github.com/hwwx/HwxLink)
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-      <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="150" style="border-radius: 8px; margin-right: 10px;">
-      <img src="images/leg_sim.png" alt="模拟图像" width="150" style="border-radius: 8px;">
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <p><strong>Description:</strong>This design focuses on creating a miniaturized, integrated multifunctional intelligent terminal. It features high-precision attitude sensing, intelligent device control, wireless sensor capabilities, intelligent temperature monitoring, a portable DDS system, and a simple oscilloscope.</p>
-      <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
-      <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px; padding: 20px; border: 1px solid #ddd; border-radius: 10px; background-color: #f9f9f9;">
+  <!-- 左侧图片区域 -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="180" style="border-radius: 10px;">
+    <img src="images/leg_sim.png" alt="模拟图像" width="180" style="border-radius: 10px;">
+  </div>
+
+  <!-- 右侧文字区域 -->
+  <div style="flex: 1;">
+    <p style="font-weight: bold; font-size: 1.2em; margin-bottom: 10px;">📌 Description:</p>
+    <p style="margin-bottom: 15px;">
+      This design focuses on creating a miniaturized, integrated multifunctional intelligent terminal. It features high-precision attitude sensing, intelligent device control, wireless sensor capabilities, intelligent temperature monitoring, a portable DDS system, and a simple oscilloscope.
+    </p>
+    <p style="font-weight: bold; font-size: 1.2em; margin-bottom: 10px;">🔧 技术栈:</p>
+    <p style="margin-bottom: 15px;">技术1、技术2、技术3。</p>
+    <p>
+      <a href="项目列表链接" style="text-decoration: none; font-weight: bold; color: #0366d6;">🔗 更多项目请查看：项目列表链接</a>
+    </p>
+  </div>
+</div>
 
 ### 🌟 [HwxLink](https://github.com/hwwx/HwxLink)
 
