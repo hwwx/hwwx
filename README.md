@@ -46,10 +46,9 @@
 ### 🌟 [项目1名称](项目链接)
 
 <div align="center">
-    <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="margin-right: 10px; border-radius: 8px;">
-    <img src="images/leg_sim.png" alt="模拟图像" width="200" style="border-radius: 8px;">
+    <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="margin-right: 20px; border-radius: 12px;">
+    <img src="images/leg_sim.png" alt="模拟图像" width="200" style="margin-left: 20px; border-radius: 12px;">
 </div>
-
 
 **描述**：简短描述该项目的功能和特点。  
 **技术栈**：`技术1`、`技术2`、`技术3`。
