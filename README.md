@@ -1,11 +1,11 @@
 ## About Me 🙋‍♂️
 Welcome to my GitHub page! I am a **student** currently studying at the [College of Electronic and Information Engineering, Shenzhen University](https://ceie.szu.edu.cn/index.htm) in the Wenhua Class. I am passionate about exploring new technologies and developing innovative projects.
 
-- 🔭 Current Project: [Project Name](Project Link)
-- 🌱 Currently Learning: `technologies/frameworks/languages`, such as `Rust`, `Kubernetes`
-- 👯 Open to Collaborate On: `project type/field`, such as `open-source data analysis projects`
-- 💬 Feel free to ask me about `topics/technologies`
-- 😄 Hobbies: `hobby 1`, `hobby 2`, `hobby 3`, such as `fitness`, `blogging`, `music`
+- 🔭 Current Project: Preparing for Advanced Studies
+- 🌱 Currently Learning: `IELTS`
+- 👯 Open to Collaborate On: `Entrepreneurship`
+- 💬 Feel free to ask me about `anything`
+- 😄 Hobbies: `Rubik's Cube`, `Cycling`, `Fitness`
 
 
 
