@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-### 🌟 [项目1名称](项目链接)
+### 🌟 [HwxLink](https://github.com/hwwx/HwxLink)
 
 <table>
   <tr>
@@ -52,14 +52,14 @@
       <img src="images/leg_sim.png" alt="模拟图像" width="150" style="border-radius: 8px;">
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <p><strong>描述：</strong>简短描述该项目的功能和特点。</p>
+      <p><strong>Description:</strong>This design focuses on creating a miniaturized, integrated multifunctional intelligent terminal. It features high-precision attitude sensing, intelligent device control, wireless sensor capabilities, intelligent temperature monitoring, a portable DDS system, and a simple oscilloscope.</p>
       <p><strong>技术栈：</strong>`技术1`、`技术2`、`技术3`。</p>
       <p><a href="项目列表链接" style="color: #0366d6;">更多项目请查看：项目列表链接</a></p>
     </td>
   </tr>
 </table>
 
-### 🌟 [项目1名称](项目链接)
+### 🌟 [HwxLink](https://github.com/hwwx/HwxLink)
 
 <table>
   <tr>
