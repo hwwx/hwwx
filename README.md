@@ -1,11 +1,12 @@
-## 关于我 🙋‍♂️
-欢迎来到我的 GitHub 主页！我是一个 **学生**，目前就读于[深圳大学电子信息工程学院文华班](https://ceie.szu.edu.cn/index.htm)，热衷于探索新技术和开发创新项目。
+## About Me 🙋‍♂️
+Welcome to my GitHub page! I am a **student** currently studying at the [College of Electronic and Information Engineering, Shenzhen University](https://ceie.szu.edu.cn/index.htm) in the Wenhua Class. I am passionate about exploring new technologies and developing innovative projects.
 
-- 🔭 我目前正在做的项目：[项目名称](项目链接)
-- 🌱 目前在学习：`技术/框架/语言`，如 `Rust`、`Kubernetes`
-- 👯 我希望在以下方面合作：`项目类型/领域`，如 `开源数据分析项目`
-- 💬 如果你有关于 `主题/技术` 的问题，欢迎与我交流
-- 😄 兴趣爱好：`爱好1`，`爱好2`，`爱好3`，如 `健身`、`写博客`、`音乐`
+- 🔭 Current Project: [Project Name](Project Link)
+- 🌱 Currently Learning: `technologies/frameworks/languages`, such as `Rust`, `Kubernetes`
+- 👯 Open to Collaborate On: `project type/field`, such as `open-source data analysis projects`
+- 💬 Feel free to ask me about `topics/technologies`
+- 😄 Hobbies: `hobby 1`, `hobby 2`, `hobby 3`, such as `fitness`, `blogging`, `music`
+
 
 
 ## 我的项目 🔥
