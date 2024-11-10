@@ -11,6 +11,8 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
 
 ## Project 🔥
 
+### 🌟 <a href="https://github.com/hwwx/RP_Sentry" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">RoboMaster Sentry</a>
+
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
   <div style="flex: 1;">
     <img src="images/Sentry_V1.png" alt="真实图像" width="200" style="border-radius: 8px;">
