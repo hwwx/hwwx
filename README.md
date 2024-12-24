@@ -1,13 +1,5 @@
 ## About Me 🙋‍♂️
-Welcome to my GitHub page! I am a **student** currently studying at the [College of Electronic and Information Engineering, Shenzhen University](https://ceie.szu.edu.cn/index.htm) in the Wenhua Class. I am passionate about exploring new technologies and developing innovative projects.
-
-- 🔭 Current Project: `Preparing for Advanced Studies`
-- 🌱 Currently Learning: `IELTS`
-- 👯 Open to Collaborate On: `Entrepreneurship`
-- 💬 Feel free to ask me about `anything`
-- 😄 Hobbies: `Rubik's Cube`, `Cycling`, `Fitness`
-
-
+Welcome to my GitHub page! I am a **student** currently studying at the [College of Electronic and Information Engineering, Shenzhen University](https://ceie.szu.edu.cn/index.htm) in the Wenhua Class. I am passionate about ROBOTICS and AI on the Edge.
 
 ## Project 🔥
 
