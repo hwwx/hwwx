@@ -63,25 +63,7 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
 
 ---
 
-### 🌟 <a href="https://github.com/hwwx/JumpBot" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">JumpBot</a>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
-  <div style="flex: 1;">
-    <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
-    <img src="images/leg_sim.png" alt="模拟图像" width="200" style="border-radius: 8px;">
-  </div>
-  <div style="flex: 2;">
-    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong> JumpBot is designed with a unique structure and capabilities for flexible, interactive movement:</p>
-    <ul style="line-height: 1.6;">
-      <li><strong>Four-Link Wheel-Leg Structure:</strong> JumpBot utilizes a four-link design that combines the smooth rolling of wheels with the flexible jumping capability of legs, allowing it to move easily across various surfaces.</li>
-      <li><strong>Balancing Control:</strong> Equipped with an efficient self-balancing system, JumpBot maintains precise balance on its two wheels, enabling uniquely stable movement.</li>
-      <li><strong>Tabletop-Level Jumping:</strong> Specially designed for flexible jumping within small areas like tabletops and counters, adding greater interactivity and fun.</li>
-    </ul>
-  </div>
-</div>
-
-
----
 
 ### 🌟 <a href="https://github.com/hwwx/HwxLink" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">HwxLink</a>
 
@@ -102,6 +84,27 @@ Welcome to my GitHub page! I am a **student** currently studying at the [College
     </ul>
   </div>
 </div>
+
+---
+
+
+### 🌟 <a href="https://github.com/hwwx/JumpBot" style="font-size: 1.5rem; font-weight: bold; color: #0366d6; text-decoration: none;">JumpBot</a>
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-top: 10px;">
+  <div style="flex: 1;">
+    <img src="images/leg_real_LE_auto_x4.jpg" alt="真实图像" width="200" style="border-radius: 8px; margin-bottom: 10px;">
+    <img src="images/leg_sim.png" alt="模拟图像" width="200" style="border-radius: 8px;">
+  </div>
+  <div style="flex: 2;">
+    <p style="font-size: 1rem; line-height: 1.6;"><strong>Description:</strong> JumpBot is designed with a unique structure and capabilities for flexible, interactive movement:</p>
+    <ul style="line-height: 1.6;">
+      <li><strong>Four-Link Wheel-Leg Structure:</strong> JumpBot utilizes a four-link design that combines the smooth rolling of wheels with the flexible jumping capability of legs, allowing it to move easily across various surfaces.</li>
+      <li><strong>Balancing Control:</strong> Equipped with an efficient self-balancing system, JumpBot maintains precise balance on its two wheels, enabling uniquely stable movement.</li>
+      <li><strong>Tabletop-Level Jumping:</strong> Specially designed for flexible jumping within small areas like tabletops and counters, adding greater interactivity and fun.</li>
+    </ul>
+  </div>
+</div>
+
 
 
 ---
